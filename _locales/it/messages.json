@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Facebook Reels Parser"
+  },
+  "appDesc": {
+    "message": "Una semplice estensione browser per analizzare e gestire gli URL dei Reels Facebook."
+  }
+}

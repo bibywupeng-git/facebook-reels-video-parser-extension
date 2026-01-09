@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Facebook Reels Parser"
+  },
+  "appDesc": {
+    "message": "Facebook Reels URL을 파싱하고 처리하기 위한 간단한 브라우저 확장 프로그램."
+  }
+}

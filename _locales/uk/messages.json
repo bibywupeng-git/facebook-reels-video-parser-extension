@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Facebook Reels Parser"
+  },
+  "appDesc": {
+    "message": "Простий розширення браузера для парсингу та обробки URL-адрес Reels Facebook."
+  }
+}
