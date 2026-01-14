@@ -4,7 +4,9 @@ A lightweight browser extension designed to parse and work with Facebook Reels v
 
 This extension focuses on extracting structured information from Facebook Reels videos when the user actively interacts with the extension. It runs locally in the browser and does not require user accounts or background processing.
 
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/facebook-reels-parser/hefhfecjphlhicmgmhahhgidkobbeecg)
 ---
+
 
 ## ✨ Features
 
